@@ -14,6 +14,7 @@
 ## Personal
 
 * [Personal Info \(25%\)](personal/personal-info/README.md)
-  * [Personal Meetings \(0%\)](personal/personal-info/untitled-1.md)
-  * [Packing List \(1%\)](personal/personal-info/packing.md)
+  * [Personal Meetings \(70%\)](personal/personal-info/untitled-1.md)
+  * [Packing List \(1%\)](personal/personal-info/packing/README.md)
+    * [Packing List VPMOM \(70%\)](personal/personal-info/packing/packing-list-vpmom.md)
 
