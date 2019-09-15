@@ -6,7 +6,7 @@ description: 'Non-work-related meetings, most often on weekends'
 
 ## Catchup Meetings
 
-For 1-1 catch-up meetings Saturday mornings are best for me, either on the phone or in-person.
+For 1-1 catch-up meetings Saturday mornings are best for me, either on the phone or in-person. Most often catch-ups are with classmates from family friends, school, YC or past companies where we worked together. 
 
 ### Saturday morning phone catch-ups 
 

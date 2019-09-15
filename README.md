@@ -4,6 +4,10 @@ This is a README page for learning more about me before meeting professionally o
 
 This page is under deployment and the percentage indicators \(e.g. 0%, 1%, 50%, 99%\) show where I am in building out the sections.
 
+## General Information 
+
+You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en). My background and biography are on [LinkedIn](https://www.linkedin.com/in/iantien/). I don't use Facebook much anymore. I tend to keep WhatsApp limited to people I intend to talk to.  
+
 ## Professional Meetings 
 
 \(0%\) Operating Manual - How I think and behave  
@@ -11,14 +15,13 @@ This page is under deployment and the percentage indicators \(e.g. 0%, 1%, 50%, 
 \(0%\) Meeting: Informational - Meeting to learn about working at our company   
 \(0%\) Meeting: Non-final Interview - Meeting for a non-final interview   
 \(0%\) Meeting: Final interview - Final interview meeting   
-\(0%\) Meeting: Social - Meeting socially   
 \(0%\) Exec Hiring - Exec vetting process   
 \(0%\) Exec Expectations - Definition of excellence in exec operations 
 
 ## Social Meeting 
 
-\(0%\) Personal Info - More about me   
-\(0%\) Meeting logistics - Where and when to meet 
+\(70%\) [Personal Info](personal/personal-info/) - More about me   
+\(70%\) [Personal Meeting](personal/personal-info/untitled-1.md) - Where and when to meet for social catchups 
 
 ## Caveats
 

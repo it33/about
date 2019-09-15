@@ -1,6 +1,8 @@
-# Personal Info \(25%\)
+---
+description: Information about me not related to the company I lead professionally.
+---
 
-You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en) and [LinkedIn](https://www.linkedin.com/in/iantien/), I don't use Facebook much anymore. I tend to keep WhatsApp limited to people I intend to talk to.  
+# Personal Info \(70%\)
 
 ## BACKGROUND
 

@@ -1,14 +1,19 @@
-# CEO Final Interview \(0%\)
+---
+description: >-
+  This page is for the end-of-loop interviews with CEO and co-founder. At least
+  one of the company co-founders, either CEO or CTO, needs to complete an
+  end-of-loop interview with candidates.
+---
+
+# CEO End-of-Loop Interview
 
 ## CEO Interview Pre-reading
 
 Hi there, 
 
-My name is Ian and I'm CEO of Mattermost, Inc. and a co-creator of the Mattermost open source project. 
+My name is Ian and I'm CEO of Mattermost, Inc. and a co-creator of the Mattermost open source project. Thank you for investing the time in getting to know our company and exploring the opportunity to build this company together.
 
-Thank you for investing the time in getting to know our company and exploring the opportunity to build this company together.
-
-I'm interested to know one thing: Is Mattermost a place where you can do the best work of your career? 
+I'm interested to know one thing: _Is Mattermost a place where you can do the best work of your career?_ 
 
 This means understanding: 
 
