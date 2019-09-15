@@ -1,5 +1,7 @@
 ---
-description: 'Non-work-related meetings, most often on weekends'
+description: >-
+  Logistics for personal, non-work-related meetings, most often on weekends,
+  with friends
 ---
 
 # Personal Meetings \(70%\)

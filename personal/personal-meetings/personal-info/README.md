@@ -25,21 +25,25 @@ I ran the video game company profitably for three years before pivoting into the
 **Twitter** - [Naval](https://twitter.com/naval), [Justin Kan](https://twitter.com/justinkan), [Paul Graham](https://twitter.com/paulg), [Garry Tan](https://twitter.com/garrytan), [Mark Brooks](https://twitter.com/MarkBrooksArt)  
 **Comics** - Jim Lee, Mike Allred, Chris Bachalo
 
-## NON-STANDARD EXPERIENCES 
+## OTHER FACTS  
 
 ### Respect for creatives 
 
 I have tremendous respect for creatives. Before my career in software I worked as a freelance illustrator and storyboard artist, and as a background performer for [film](https://www.youtube.com/watch?v=EFGr2_cOOTk) and TV commercials. I was awestruck by the risk creatives were willing to take on in pursuit of their dreams. I've drawn on those experiences time and time again to be brave. 
 
-![Screenshot from days working as a background performer in film and TV commercials](../../.gitbook/assets/image%20%281%29.png)
+![Screenshot from days working as a background performer in film and TV commercials](../../../.gitbook/assets/image%20%281%29.png)
 
-![I worked as an illustrator in high school and got to do a &quot;jam session&quot; with pro illustrators. This piece includes Mike Mignola, Alex Ross, Chris Bachalo, Jill Thompson, Terry Moore among others.](../../.gitbook/assets/image.png)
+![I worked as an illustrator in high school and got to do a &quot;jam session&quot; with pro illustrators. This piece includes Mike Mignola, Alex Ross, Chris Bachalo, Jill Thompson, Terry Moore among others.](../../../.gitbook/assets/image.png)
 
-### Easy on air travel 
+### I feel lucky 
 
-I was once evacuated off a flight from EWR to SFO, where the engine caught fire on the runway. [You can read about the adventure on SF Gate](https://www.sfgate.com/bayarea/article/5-hurt-when-engine-on-SF-bound-plane-catches-fire-11168989.php).  Yes, I took the emergency slide. Was it fun? It's about as much as you can have running away from a flaming jet engine towards a concrete runway 20 feet below the plane. In general, I don't complain much about airplane delays, knowing that most of the time their priority is keeping everyone safe. 
+In general when people ask me "how are you doing?" I say "great!" and most days what I mean is that I am happy to be alive.  
+  
+In 2017, I was on flight [UA1579](https://twitter.com/hashtag/ua1579?src=hash) from EWR to SFO where the plane's engine caught fire on the runway. We were asked to evacuate and I got to take the emergency slide out of the plane. As reached the ground, all the passengers scattered and EWR shut down all its runways until all of us could be rounded up and counted so other planes taking off wouldn't squish us. [A few people had injuries](https://www.sfgate.com/bayarea/article/5-hurt-when-engine-on-SF-bound-plane-catches-fire-11168989.php) but overall things were fine--end-to-end it was only a 4 hour delay from the original travel time.   
+  
+Most days I wake up every day thinking about how lucky I am and go to sleep the same way.
 
-![Me at EWR after taking emergency slide out of a plane whose engine was on fire.](../../.gitbook/assets/image%20%283%29.png)
+![Me at EWR after taking emergency slide out of a plane whose engine was on fire. Picture taken with a company-branded selfie-stick.](../../../.gitbook/assets/image%20%283%29.png)
 
 
 

@@ -10,22 +10,22 @@ You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en). My b
 
 ## Professional Meetings 
 
-\(0%\) Operating Manual - How I think and behave  
-\(0%\) Mindsets - Frameworks I've used successfully in the past   
-\(0%\) Meeting: Informational - Meeting to learn about working at our company   
-\(0%\) Meeting: Non-final Interview - Meeting for a non-final interview   
-\(0%\) Meeting: Final interview - Final interview meeting   
-\(0%\) Exec Hiring - Exec vetting process   
-\(0%\) Exec Expectations - Definition of excellence in exec operations 
+1. Operating Manual \(0%\) - How I think and behave
+2. Mindsets \(0%\) - Frameworks I've used successfully in the past 
+3. Meeting: Informational \(0%\) - Meeting to learn about working at our company 
+4. Meeting: Non-final Interview \(0%\) - Meeting for a non-final interview 
+5.  [End-of-Loop Interview](first-meetings/final-interview.md) - Final interview meeting
+6. Exec Hiring \(0%\) - Exec vetting process
+7. Exec Expectations \(0%\) - Definition of excellence in exec operations 
 
 ## Social Meeting 
 
-\(70%\) [Personal Info](personal/personal-info/) - More about me   
-\(70%\) [Personal Meeting](personal/personal-info/untitled-1.md) - Where and when to meet for social catchups 
+1. [Personal Info \(70%\)](personal/personal-meetings/personal-info/) - More about me 
+2. [Personal Meeting \(70%\) ](personal/personal-meetings/)- Where and when to meet for social catchups 
 
 ## Caveats
 
-1. **Being this open isn't for everyone** - Some people have suggested README files for people who work for me. I know this would be highly uncomfortable for people who value privacy. I DO NOT encourage people to publish README files. It's just what I like to do. 
+1. **Being this open isn't for everyone** - Some people have suggested README files for people who work for me. I know this would be highly uncomfortable for people who value privacy. I DO NOT encourage people to publish README files. It's just my personal preference.  
 2. **This is the past, not the future** - Anticipate iteration in everything here.  
 3. **No sales people, please** - I try to be open on how I operate professionally while at the same time keeping my name and my company name off this page to avoid sales people getting creepy--if you're a sales person who's some how found this page on me, please realize how creepy you'll come across using the info here. 
 

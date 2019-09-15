@@ -4,7 +4,8 @@
 
 ## First Meetings
 
-* [CEO End-of-Loop Interview](first-meetings/final-interview.md)
+* [Leadership Principles Interview](first-meetings/final-interview.md)
+* [Informational](first-meetings/informational.md)
 
 ## Professional <a id="pro"></a>
 
@@ -13,8 +14,8 @@
 
 ## Personal
 
-* [Personal Info \(70%\)](personal/personal-info/README.md)
-  * [Personal Meetings \(70%\)](personal/personal-info/untitled-1.md)
-  * [Packing List \(1%\)](personal/personal-info/packing/README.md)
-    * [Packing List VPMOM \(70%\)](personal/personal-info/packing/packing-list-vpmom.md)
+* [Personal Meetings \(70%\)](personal/personal-meetings/README.md)
+  * [Personal Info \(70%\)](personal/personal-meetings/personal-info/README.md)
+    * [Packing List \(40%\)](personal/personal-meetings/personal-info/packing/README.md)
+      * [Packing List VPMOM \(70%\)](personal/personal-meetings/personal-info/packing/packing-list-vpmom.md)
 
