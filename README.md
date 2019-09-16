@@ -8,17 +8,19 @@ This page is under deployment and the percentage indicators \(e.g. 0%, 1%, 50%, 
 
 You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en). My background and biography are on [LinkedIn](https://www.linkedin.com/in/iantien/). I don't use Facebook much anymore. I tend to keep WhatsApp limited to people I intend to talk to.  
 
-## Professional Meetings 
+## First Meetings 
 
-1. Operating Manual \(0%\) - How I think and behave
-2. Mindsets \(0%\) - Frameworks I've used successfully in the past 
-3. Meeting: Informational \(0%\) - Meeting to learn about working at our company 
-4. Meeting: Non-final Interview \(0%\) - Meeting for a non-final interview 
-5.  [End-of-Loop Interview](first-meetings/final-interview.md) - Final interview meeting
-6. Exec Hiring \(0%\) - Exec vetting process
-7. Exec Expectations \(0%\) - Definition of excellence in exec operations 
+1. [CEO Informational](first-meetings/informational.md) - Meeting to learn about working at our company 
+2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
 
-## Social Meeting 
+## Professional 
+
+1. [CEO Informational](first-meetings/informational.md) - Meeting to learn about working at our company 
+2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
+3. [Architecture \(50%\)](pro/architecture.md) - How I think and behave
+4. [Mindsets \(50%\)](pro/mindsets-50.md) - Frameworks I've used successfully in the past 
+
+## Personal
 
 1. [Personal Info \(70%\)](personal/personal-meetings/personal-info/) - More about me 
 2. [Personal Meeting \(70%\) ](personal/personal-meetings/)- Where and when to meet for social catchups 
