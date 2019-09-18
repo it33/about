@@ -4,7 +4,7 @@ description: >-
   with friends
 ---
 
-# Personal Meetings \(70%\)
+# Catching up with friends
 
 ## Catchup Meetings
 

@@ -5,7 +5,7 @@ description: >-
   they are merely a box of tools.
 ---
 
-# Mindsets \(50%\)
+# Mindsets
 
 ## Strategy
 

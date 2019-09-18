@@ -1,4 +1,4 @@
-# Packing List \(40%\)
+# Packing List
 
 While in a remote-first lifestyle I predominantly work from home, I also spend a lot of time getting things done from coffee shops, airports, hotel rooms, borrowed offices and even other people's homes.   
   

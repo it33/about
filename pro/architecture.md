@@ -4,7 +4,7 @@ description: >-
   behave.
 ---
 
-# Architecture \(50%\)
+# Architecture
 
 TODO: Need to organize the below into themes. The early iteration was more a list of disclosures, we are at "50%" because the aspiration is getting to an architecture to communicate the underlying thinking and behaviors. 
 

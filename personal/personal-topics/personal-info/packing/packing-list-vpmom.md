@@ -2,7 +2,7 @@
 description: How I prioritize and evaluate my packing strategy and processes
 ---
 
-# Packing List VPMOM \(70%\)
+# Packing List VPMOM
 
 Vision 
 

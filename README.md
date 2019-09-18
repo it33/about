@@ -22,8 +22,8 @@ You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en). My b
 
 ## Personal
 
-1. [Personal Info \(70%\)](personal/personal-meetings/personal-info/) - More about me 
-2. [Personal Meeting \(70%\) ](personal/personal-meetings/)- Where and when to meet for social catchups 
+1. [Personal Info \(70%\)](personal/personal-topics/personal-info/) - More about me 
+2. [Personal Meeting \(70%\) ](personal/personal-topics/personal-meetings.md)- Where and when to meet for social catchups 
 
 ## Caveats
 

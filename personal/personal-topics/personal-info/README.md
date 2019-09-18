@@ -2,7 +2,7 @@
 description: Information about me not related to the company I lead professionally.
 ---
 
-# Personal Info \(70%\)
+# Personal Info
 
 ## BACKGROUND
 

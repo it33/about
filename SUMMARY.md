@@ -9,14 +9,16 @@
 
 ## Professional <a id="pro"></a>
 
-* [Architecture \(50%\)](pro/architecture.md)
-* [Mindsets \(50%\)](pro/mindsets-50.md)
+* [Architecture](pro/architecture.md)
+* [Mindsets](pro/mindsets-50.md)
 
 ## Personal
 
-* [Personal Meetings \(70%\)](personal/personal-meetings/README.md)
-  * [Personal Info \(70%\)](personal/personal-meetings/personal-info/README.md)
-    * [README VPMOM](personal/personal-meetings/personal-info/readme-vpmom.md)
-    * [Packing List \(40%\)](personal/personal-meetings/personal-info/packing/README.md)
-      * [Packing List VPMOM \(70%\)](personal/personal-meetings/personal-info/packing/packing-list-vpmom.md)
+* [Personal Topics](personal/personal-topics/README.md)
+  * ["Get your thoughts" meetings](personal/personal-topics/ask-me-anything-meetings.md)
+  * [Catching up with friends](personal/personal-topics/personal-meetings.md)
+  * [Personal Info](personal/personal-topics/personal-info/README.md)
+    * [README VPMOM](personal/personal-topics/personal-info/readme-vpmom.md)
+    * [Packing List](personal/personal-topics/personal-info/packing/README.md)
+      * [Packing List VPMOM](personal/personal-topics/personal-info/packing/packing-list-vpmom.md)
 
