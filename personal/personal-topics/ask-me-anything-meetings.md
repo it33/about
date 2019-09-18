@@ -16,9 +16,7 @@ It's typically before the rest of my family is awake and it is the same time as 
 
 That said, I'm also very happy to find time via my EA if other times are more convenient.   
   
-I've posted some frequently asked questions below in case they are helpful.   
-  
-I'm looking forward to speaking to you soon,   
+Talk to you soon,   
   
 Ian 
 
