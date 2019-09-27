@@ -18,7 +18,7 @@ Exercise is a proxy for being healthy, including good diet and sleep.
 
 ### Should I apply to Y Combinator? 
 
-If you are a first-time founder pursuing a multi-billion dollar market opportunity and ready to raise funding in about 3-4 months \(with or without YC\), I would recommend applying to potentially accelerate your business, positively influence your valuation, and join a community of like-minded company builders. 
+If you are a first-time founder pursuing a multi-billion dollar market opportunity and ready to raise funding in about 3-4 months \(with or without YC\), I would recommend applying to potentially accelerate your business, positively influence your valuation, and join a community of like-minded company builders. Acceptance rates are around 1.5% at the time of this writing, so you should not count on getting into YC. 
 
 ### What might increase my chances to get into Y Combinator? 
 
@@ -34,12 +34,9 @@ In my mind the first step is to convince yourself of the inevitable success of y
 
 ### Should I pursue an MBA? 
 
-I think MBA programs can be really different so I can only really comment on the Stanford MBA program, also known as "GSB" for "Graduate School of Business". 
+If you're asking me about getting an MBA my assumption is you're interested in a career in technology, company building and/or general management. If this is the case, I'd highly recommend the MBA program I went through, which was the Graduate School of Business \(or "GSB"\) at Stanford. I can't really comment on other MBA programs. 
 
-GSB was amazing for me. It's a highly luxurious time where you funnel energy into your own learning and growth. You hang out, have fun, have silly dreams and try to find your way in life, with a cohort of soon-to-be-friends who are all doing the same thing. 
-
-I had professors like Condoleezza Rice, Eric Schmidt, and Joel Peterson, and worked as a teaching assistant for Andy Grove and Myron Scholes. Many classmates have gone on to be outstanding investors, founders and executives around the world. For me there's a tremendous warmth when I get to catch up with this very special group of friends, with whom I shared a very special time together. 
-
+GSB was amazing for me. It's a luxurious time where you funnel energy into your own learning and growth. You hang out, have silly dreams and try to find your way in life, with a cohort of soon-to-be-friends who are all doing the same thing. I had professors like Condoleezza Rice, Eric Schmidt, and Joel Peterson, and worked as a teaching assistant for Andy Grove and Myron Scholes. I keep in touch with hundreds of classmates annually, many of whom have become outstanding investors, founders, leaders and executives. For me, it was an elevating, transformational experience personally and professionally.  
 
 
 
