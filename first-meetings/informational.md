@@ -7,7 +7,7 @@ Thank you for taking the time to meet me at for a CEO informational. I'm excited
 We're a fast-growing startup delivering an open source Slack-alternative for [customers who need levels of trust, flexibility and innovation](https://mattermost.com/customers/) that only open source platforms can offer. A few notes on us: 
 
 * In June 2019 we announced [a $50M Series B from Y Combinator](https://www.linkedin.com/feed/update/urn:li:activity:6547125277162639360) just four months after announcing [a $20M Series A from RedPoint](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/).
-* We just brought on a new [executive leadership team](https://www.globenewswire.com/news-release/2019/03/27/1780869/0/en/Mattermost-Builds-out-Executive-Leadership-Team-Adds-Board-of-Advisors-and-Opens-San-Francisco-Office.html) to scale the business
+* Mattermost is a [one of two open source, remote-first companies in the YC Top 100](https://medium.com/@it33/mattermost-joins-gitlab-in-yc-top-100-as-new-open-source-remote-company-cdcb0706e7eb) 
 
 To "see who we are":
 
