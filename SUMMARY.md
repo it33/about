@@ -5,7 +5,8 @@
 ## First Meetings
 
 * [Leadership Principles Interview](first-meetings/final-interview.md)
-* [CEO Informational](first-meetings/informational.md)
+* [CEO Informational](first-meetings/informational/README.md)
+  * [Director of Recruiting](first-meetings/informational/director-of-recruiting.md)
 
 ## Professional <a id="pro"></a>
 

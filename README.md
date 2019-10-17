@@ -10,12 +10,12 @@ You can find me publicly on [Twitter](https://twitter.com/iantien?lang=en). My b
 
 ## First Meetings 
 
-1. [CEO Informational](first-meetings/informational.md) - Meeting to learn about working at our company 
+1. [CEO Informational](first-meetings/informational/) - Meeting to learn about working at our company 
 2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
 
 ## Professional 
 
-1. [CEO Informational](first-meetings/informational.md) - Meeting to learn about working at our company 
+1. [CEO Informational](first-meetings/informational/) - Meeting to learn about working at our company 
 2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
 3. [Architecture \(50%\)](pro/architecture.md) - How I think and behave
 4. [Mindsets \(50%\)](pro/mindsets-50.md) - Frameworks I've used successfully in the past 
