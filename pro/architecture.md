@@ -24,7 +24,7 @@ Most things are 1 or 0 to me. Either things are correct and as they should be \(
 Facts or logic can change my world view quickly. I welcome [answer-first communications](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) \(what McKinsey calls “pyramid principle”\) as a way to change my thinking. I am constantly poking at assumptions until they hit the bedrock of fact. I struggle with "story"-based communication that doesn't get to the point--but I'll use story when working with people who need that style. I react very badly to people who essentially say "trust me" because it signals to me they have no confidence in their plan and/or they have very weak communication skills.   
   
 **What works:** Facts and logic. Getting to the point.   
-**What doesn't work:** Story-based communication. Saying "trust me".
+**What doesn't work:** Long-winded communication style. Saying "trust me". 
 
 ### Extrovert
 
@@ -44,7 +44,7 @@ I think in systems. It’s hard for me to evaluate an isolated tactic without un
 
 My brain is naturally intuiting and judging \(versus sensing and perceiving\). As I absorb information my mind is running multiple, loosely-held hypotheses in parallel and my questions may seem to jump across multiple theories as I decide whether to eliminate or further explore different hypotheses.   
   
-**What works:** Frameworks \(e.g. VPMOMs\), then data and logic to shape the hypothesis   
+**What works:** Frameworks, then data and logic to shape the hypothesis   
 **What doesn't work:** Diving into mid-level and low-level without a framework
 
 ## How I behave
