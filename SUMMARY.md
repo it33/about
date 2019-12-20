@@ -15,6 +15,7 @@
 
 ## Personal
 
+* [EA logistics](personal/ea-logistics.md)
 * [Personal Topics](personal/personal-topics/README.md)
   * ["Get your thoughts" meetings](personal/personal-topics/ask-me-anything-meetings.md)
   * [Catching up with friends](personal/personal-topics/personal-meetings.md)
