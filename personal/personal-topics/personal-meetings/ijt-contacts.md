@@ -4,7 +4,7 @@ description: Draft guidelines on contacts database for keeping track of key cont
 
 # IJT Contacts
 
-[Contacts database](https://airtable.com/tbldcpptvGf0k7IFX/viw04NBDfthRtiRGr?blocks=hide) helps me keep track of people I hope to keep in touch with. 
+[Contacts database](https://airtable.com/tbldcpptvGf0k7IFX/viw04NBDfthRtiRGr?blocks=hide) helps me keep track of people I hope to keep in touch with, in particular for in-person meetings when I happen to be in town. 
 
 ## Fields in Database
 
@@ -36,7 +36,7 @@ Family Relevance:
 
 Group
 
-* Need to document these, primary way to filter 
+* Need to document these, primary way to filter the list 
 
 Hangout
 

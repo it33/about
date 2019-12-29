@@ -25,7 +25,7 @@ My purpose is to lead teams by unlocking the potential in individuals and organi
 ## Personal
 
 1. [Personal Info ](personal/personal-topics/personal-info/) - More about me 
-2. [Personal Meeting ](personal/personal-topics/personal-meetings/)- Where and when to meet for social catchups 
+2. [Personal Meeting ](personal/personal-topics/personal-meetings.md)- Where and when to meet for social catchups 
 
 ## Caveats
 

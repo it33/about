@@ -18,7 +18,7 @@
 * [EA logistics](personal/ea-logistics.md)
 * [Personal Topics](personal/personal-topics/README.md)
   * ["Get your thoughts" meetings](personal/personal-topics/ask-me-anything-meetings.md)
-  * [Catching up with friends](personal/personal-topics/personal-meetings/README.md)
+  * [Catching up with friends](personal/personal-topics/personal-meetings.md)
     * [IJT Contacts](personal/personal-topics/personal-meetings/ijt-contacts.md)
   * [Personal Info](personal/personal-topics/personal-info/README.md)
     * [README VPMOM](personal/personal-topics/personal-info/readme-vpmom.md)
