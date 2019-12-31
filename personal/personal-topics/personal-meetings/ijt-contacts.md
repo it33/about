@@ -36,10 +36,15 @@ Family Relevance:
 
 Group
 
-* MM-ADV - Mattermost Advisers and Board Members 
-* MM-E&K - Mattermost Executives and Key Staff
-* CH-HS - Childhood high school friends 
-* CH-GS - Childhood grade school friends, including Chinese school friends 
+* MM Adviser - Mattermost Advisers and Board Members 
+* MM Exec & Key Staff - Mattermost Executives and Key Staff
+* CH High School - Childhood high school friends 
+* CH Grade School - Childhood grade school friends, including Chinese school friends 
+* YC Startup School - Advisee from YC Startup School
+* YC Batchmate - YC Batchmate 
+* GSB-SO - Significant other of GSB classmate 
+* GSB-11 - Classmate from GSB class of 2011
+* GSB-12 - Classmate from GSB class of 2012
 
 Hangout
 
