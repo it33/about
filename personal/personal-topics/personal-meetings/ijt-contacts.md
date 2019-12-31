@@ -36,7 +36,10 @@ Family Relevance:
 
 Group
 
-* Need to document these, primary way to filter the list 
+* MM-ADV - Mattermost Advisers and Board Members 
+* MM-E&K - Mattermost Executives and Key Staff
+* CH-HS - Childhood high school friends 
+* CH-GS - Childhood grade school friends, including Chinese school friends 
 
 Hangout
 
