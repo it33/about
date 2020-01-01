@@ -8,7 +8,7 @@ description: Draft guidelines on contacts database for keeping track of key cont
 
 ## Views
 
-* [Playdates in SFO](https://airtable.com/tbldcpptvGf0k7IFX/viwRhsRNvuBmg0c4E?blocks=hide) - Families to schedule playdates with our kids 
+* [Playdates in SFO](https://airtable.com/tbldcpptvGf0k7IFX/viwRhsRNvuBmg0c4E?blocks=hide) - Families to schedule playdates with our kids in SF Bay Area
 
 ## Fields in Database
 
