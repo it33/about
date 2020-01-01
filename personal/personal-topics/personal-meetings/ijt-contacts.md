@@ -6,6 +6,10 @@ description: Draft guidelines on contacts database for keeping track of key cont
 
 [Contacts database](https://airtable.com/tbldcpptvGf0k7IFX/viw04NBDfthRtiRGr?blocks=hide) helps me keep track of people I hope to keep in touch with, in particular for in-person meetings when I happen to be in town. 
 
+## Views
+
+* [Playdates in SFO](https://airtable.com/tbldcpptvGf0k7IFX/viwRhsRNvuBmg0c4E?blocks=hide) - Families to schedule playdates with our kids 
+
 ## Fields in Database
 
 Full Name / Email / Phone
@@ -38,6 +42,7 @@ Group
 
 * MM Adviser - Mattermost Advisers and Board Members 
 * MM Exec & Key Staff - Mattermost Executives and Key Staff
+* MM Vendor - Mattermost Vendor 
 * CH High School - Childhood high school friends 
 * CH Grade School - Childhood grade school friends, including Chinese school friends 
 * YC Startup School - Advisee from YC Startup School
