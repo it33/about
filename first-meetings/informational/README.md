@@ -12,7 +12,7 @@ We're a fast-growing startup delivering an open source Slack-alternative for [cu
 To "see who we are":
 
 * Check us out on [LinkedIn](https://www.linkedin.com/company/mattermost/), you can [learn about me there](https://www.linkedin.com/in/iantien/) as well
-* See how we've grown from our company meeting in [Las Vegas in 2017](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=3s) to [Lisbon in 2018](https://www.youtube.com/watch?v=CZXaYttz3NA).
+* See how we've grown from our company meetup in [Las Vegas in 2017](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=3s) to [Lisbon in 2018](https://www.youtube.com/watch?v=CZXaYttz3NA) to [Dominican Republic in 2019](https://www.youtube.com/watch?v=pMySvCfy7Bw&t=56s), and we're headed to [Bahamas in 2020](https://www.youtube.com/watch?v=t8-UF-wcX_s).
 
 Looking forward to speaking soon,
 
