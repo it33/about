@@ -12,11 +12,11 @@ For 1-1 catch-up meetings Saturday mornings are best for me, either on the phone
 
 ### Saturday morning phone catch-ups 
 
-8:30am Saturdays are the best time to catch up personally on a phone call. It parallels my weekday leadership meeting call so I am naturally ready to talk then. 
+2pm Palo Alto time on Saturdays are the best time to catch up personally on a phone call. It parallels my weekday leadership meeting call so I am naturally ready to talk then. 
 
 ### In-person Saturday morning Palo Alto meetings 
 
-**8:30am Saturday morning in Palo Alto**   
+**2pm Saturday in Palo Alto**   
 Starbucks at [3885 El Camino Real, Palo Alto](https://www.google.com/search?q=3885+el+camino+real+palo+alto&rlz=1C5CHFA_enUS862US862&oq=3885+el+&aqs=chrome.1.69i57j0l5.3489j0j7&sourceid=chrome&ie=UTF-8) 
 
 **11:30am Early Lunch in Palo Alto**  
