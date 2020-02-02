@@ -23,5 +23,4 @@
     * [README VPMOM](personal/personal-topics/personal-info/readme-vpmom.md)
     * [Packing List](personal/personal-topics/personal-info/packing/README.md)
       * [Packing List VPMOM](personal/personal-topics/personal-info/packing/packing-list-vpmom.md)
-* [Frequently Asked Questions](personal/frequently-asked-questions.md)
 
