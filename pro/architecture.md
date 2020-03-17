@@ -57,7 +57,7 @@ When discussing something important, I sometimes use a tool called “precision 
 
 ### Multiple hypotheses 
 
-Please be careful reading too much into my questions, especially when we're discussing high stakes, one-way decisions. As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to explore “what if”. I may backtrack on options people thought we eliminated. This happens because my mind is working in parallel, thinking is often not cut-off, but only de-prioritized in my mind. When a team nears a conclusion, I may revisit unlikely options so when we make a final decision to confirm our team has thought through things thoroughly. 
+Please be careful reading too much into my questions, especially when we're discussing high stakes, one-way decisions. As brainstorming discussions seem to converge on a path, I may start asking questions in the opposite direction to explore “what if”. I may backtrack on options people thought we eliminated. This happens because my mind is working in parallel, thinking is often not cut-off, but only de-prioritized in my mind. When a team nears a conclusion, I may revisit unlikely options so when we make a final decision to confirm our team has thought through things thoroughly.
 
 ### Fast English 
 
