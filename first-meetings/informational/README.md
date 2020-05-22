@@ -2,7 +2,7 @@
 
 Hi there,
 
-Thank you for taking the time to meet me at for a CEO informational. I'm excited to share about the opportunity at Mattermost, and for us to get to know each other.
+Thank you for taking the time to meet me for a CEO informational. I'm excited to share about the opportunity at Mattermost, and for us to get to know each other.
 
 We're a fast-growing startup delivering an open source Slack-alternative for [customers who need levels of trust, flexibility and innovation](https://mattermost.com/customers/) that only open source platforms can offer. A few notes on us: 
 
