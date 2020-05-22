@@ -8,7 +8,19 @@ My short and long form bio is on [LinkedIn](https://www.linkedin.com/in/iantien/
 
 ### Leadership Style 
 
-My purpose is to lead teams by unlocking the potential in individuals and organizations to deliver meaningful outcomes we are all proud of. 
+I've worked with an exec coach to develop a "purpose statement" for my leadership style: 
+
+>My purpose is to lead teams by unlocking the potential in individuals and organizations to deliver meaningful outcomes we are all proud of. 
+
+I'm sharing it hear so that you'll have context on how I try to lead ahead of our meeting or working together. To unpack this statement a bit, there's three key parts to this statement: 
+
+- Impact: In the "meaningful outcomes we are all proud of" in general this means I tend to value notable team and organizational wins over personal ones or small wins. I'm results and people-oriented in general. 
+
+- Genius: As part of "unlocking the potential in individuals and organizations", I believe every single person has Zones of Genius within them. Everyone has talents and abilities that can be world class with the right orientation and encouragement. I'm excited about bringing those out in people. The second part of Genius is about organizations. The power of an organization is operating as the sum of our strengths. My approach to leadership is these two things put together--finding the Genius among individuals, and iterating on the organization to have it operate as the sum of its collective Genius. 
+
+- Relationships: Part of "lead teams" and "outcomes we are all proud of" speaks to relationships we have as individuals and organizations. Trust in relationships--by being open and vulnerable--is the foundation to the organizations I want to belong to. It's only through trust and strong relationships that we can have self-awareness, critique and iteration needed to grow into our better selves over and over. 
+
+
 
 ## First Meetings 
 
