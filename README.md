@@ -16,9 +16,9 @@ I'm sharing it here so that you'll have context on how I try to lead ahead of ou
 
 * **Impact:** The "meaningful outcomes we are all proud of" part means I value notable team wins over big personal wins or small team wins. I'm excited about big wins in teams. By default, I don't dwell on the past or present, my mind is constantly to the future. 
 * **Genius:** As part of "unlocking the potential in individuals and organizations", I believe every single person has Zones of Genius within them. Everyone has world class talents and abilities that they love exercise, and this Genius unlocks with the right context and support. I'm excited about bringing those out in people, and working with leaders who can do the same. The second part of Genius is about organizations. The power of an organization is operating as the sum of our strengths. My approach to leadership is these two things put together--finding the Genius among individuals, and iterating on the organization to have it operate as the sum of its collective Genius. 
-* **Relationships**: Part of "lead teams" and "outcomes we are all proud of" speaks to our human relationships. Trust in relationships--by being open and vulnerable--is the foundation to the organizations I want to belong to. It's only through trust and strong relationships that we can have self-awareness, critique and iteration needed to grow into our better selves over and over. 
+* **Relationships**: Part of "lead teams" and "outcomes we are all proud of" speaks to our human relationships. In my mind, trust in relationships--telling someone how you genuinely think and feel--is the foundation of strong relationships and strong organizations. It's only through trust that we can have the critique, self-awareness, and iteration needed to grow into our better selves over and over at speed. 
 
-These are my personal leadership values. If these resonate with you, maybe there's an opportunity to work together in future. Happy to discuss them when we meet. 
+These are my personal leadership values, in the context of my purpose. If these resonate with you, maybe there's an opportunity to work together in future. Happy to discuss them when we meet--and I would be delighted to hear about your style of leadership.
 
 ## First Meetings 
 
