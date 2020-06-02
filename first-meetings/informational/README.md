@@ -2,7 +2,7 @@
 
 Hi there,
 
-Thank you for taking the time to meet me for a CEO informational. I'm excited to share about the opportunity at Mattermost, and for us to get to know each other.
+Thank you for taking the time to meet me at for a CEO informational. I'm excited to share about the opportunity at Mattermost, and for us to get to know each other.
 
 We're a fast-growing startup delivering an open source Slack-alternative for [customers who need levels of trust, flexibility and innovation](https://mattermost.com/customers/) that only open source platforms can offer. A few notes on us: 
 
@@ -40,7 +40,7 @@ PS: Here's four things to know about Mattermost:
   * We sell an enterprise version of Mattermost with compliance features to IT departments \([see features](https://mattermost.com/pricing-feature-comparison/)\).
   * The business is doing well
 * Four - Mattermost is an [open source, remote-first, communities-centered company](https://docs.mattermost.com/process/handbook.html#company) based in Palo Alto and headquartered on the internet.
-  * Our CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington; our VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; our VP Sales, [Alexis Schmidt](https://www.linkedin.com/in/alexis-schmidt-4819281/), is in Hillsborough, California; our VP Marketing, [Ken Olofsen](https://www.linkedin.com/in/kolofsen/), in Oakland, California; VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California and CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
+  * Our CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington; our CPO, [Chandar Venkataraman](https://www.linkedin.com/in/chandar-venkataraman-a4332b3/), is in the Mountain View, California area; our VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; our VP Marketing, [Ken Olofsen](https://www.linkedin.com/in/kolofsen/), in Oakland, California; VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California and CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
   * We have concentrations of people around London, Berlin, Toronto, and Washington, D.C. and a physical office for a portion of the finance, marketing and inside sales teams in San Francisco
   * As a company we bring the company together annually, in partnership with our customers and open source community
   * The leadership team typically meets remotely with monthly in-person meetings in the San Francisco office
