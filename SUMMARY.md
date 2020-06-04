@@ -5,6 +5,7 @@
 ## First Meetings
 
 * [Leadership Principles Interview](first-meetings/final-interview.md)
+* [Review Meeting Primer](first-meetings/review-meeting-primer.md)
 * [CEO Informational](first-meetings/informational/README.md)
   * [Director of Recruiting](first-meetings/informational/director-of-recruiting.md)
 

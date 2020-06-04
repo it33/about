@@ -20,10 +20,13 @@ I'm sharing it here so that you'll have context on how I try to lead ahead of ou
 
 These are my personal leadership values, in the context of my purpose. If these resonate with you, maybe there's an opportunity to work together in future. Happy to discuss them when we meet--and I would be delighted to hear about your style of leadership.
 
-## First Meetings 
+## Meetings 
 
-1. [CEO Informational](first-meetings/informational/) - Meeting to learn about working at our company 
-2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
+1. [CEO Informational](first-meetings/informational/) - Information for potential partners and executive candidates to learn more about working with CEO and company.  
+2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview for non-exec candidates.
+3. Review Meeting Process - What to expect in review meetings with me at Mattermost  
+
+  
 
 ## Professional 
 
