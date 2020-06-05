@@ -1,10 +1,10 @@
 ---
-description: Common questions in CEO reviews.
+description: 'Work-in-progress: Common questions in CEO reviews.'
 ---
 
 # Review Meeting Primer
 
-In meetings where I'm a reviewer I'm going to ask for some basic information.   
+In meetings where I'm a reviewer, I have a set of typical questions I ask:   
   
 **1. Goals** - Please have a written statement of your goal or goals for your project.   
 ****  
