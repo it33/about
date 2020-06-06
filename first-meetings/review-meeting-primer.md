@@ -6,9 +6,9 @@ description: 'Work-in-progress: Common questions in CEO reviews.'
 
 In meetings where I'm a reviewer, I have a set of typical questions I ask:   
   
-**1. Goals** - Please have a written statement of your goal or goals for your project.   
+**1. Goals** - Please describe your goal or goals in the context of company priorities   
 ****  
-It's important that it's written so we're aligned on what we're trying to achieve. If it's a measurable goal, like reliability, please have a measure stated somewhere in the summary on a target or range, e.g. "Uptime of at least 99.5%".   
+If it's a measurable goal, like reliability, please have a measure stated somewhere in the summary on a target or range, e.g. "Uptime of at least 99.5%".   
   
 **2. Priorities** - If you have more than one goal, please list goals in priority order. 
 
