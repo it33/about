@@ -14,9 +14,9 @@ What's it like to work with me? I've tried to summarize my leadership style in a
 
 I'm sharing it here so that you'll have context on how I try to lead ahead of our meeting or working together. To unpack this a bit, here are three components of my purpose in priority order:
 
-* **Impact:** The "meaningful outcomes we are all proud of" part means I value notable team wins over big personal wins or small team wins. I'm excited about big wins in teams. By default, I don't dwell on the past or present, my mind is constantly to the future. 
-* **Genius:** As part of "unlocking the potential in individuals and organizations", I believe every single person has Zones of Genius within them. Everyone has world class talents and abilities that energize them. This is Genius, and it unlocks with the right context and support. I'm excited about bringing those out in people, and working with leaders who can do the same. I believe organizations have their own version, which is how it operates as the sum of the Genius in its teams. My approach to leadership is these two things put together--finding the Genius among individuals, and iterating on the organization to have it operate as the sum of its collective Genius.  
-* **Relationships**: Part of "lead teams" and "outcomes we are all proud of" speaks to our human relationships. In my mind, trust in relationships--telling someone how you genuinely think and feel--is the foundation of strong relationships and strong organizations. It's only through trust that we can have the critique, self-awareness, and iteration needed to grow into our better selves over and over at speed. 
+* **Impact:** The "meaningful outcomes we are all proud of" part means I value high impact achievements for organizations over individual achievements or low impact achievements. Whether it's a series of incremental improvements that pay high dividends over time, or strategic big wins that uplift us, true satisfaction for me is working together to do great work. 
+* **Genius:** As part of "unlocking the potential in individuals and organizations", I believe every single person has Zones of Genius. Genius is energizing, remarkable ability that people exhibit when it's properly unlocked with the right context and support. I'm excited about bringing those out in people, and working with leaders who can do the same. I believe organizations have their own version, which is how it operates as the sum of the Genius in its teams. My approach to leadership is these two things put together--finding the Genius among individuals, and iterating on organizations to operate as the sum of our collective Genius.  
+* **Relationships**: Part of "lead teams" and "outcomes we are all proud of" speaks to our human relationships. In my mind, trust in relationships--being able to tell someone how you genuinely think and feel--is the foundation of strong relationships and strong organizations. It's only through trust that we can have the critique, self-awareness, and iteration needed to grow into our better selves over and over at speed. 
 
 These are my personal leadership values, in the context of my purpose. If these resonate with you, maybe there's an opportunity to work together in future. Happy to discuss them when we meet--and I would be delighted to hear about your style of leadership.
 
@@ -32,8 +32,8 @@ These are my personal leadership values, in the context of my purpose. If these 
 
 1. [CEO Informational](first-meetings/informational/) - Meeting to learn about working at our company 
 2. [Leadership Principles Interview](first-meetings/final-interview.md) - Pre-reading for CEO interview 
-3. [Architecture \(50%\)](pro/architecture.md) - How I think and behave
-4. [Mindsets \(50%\)](pro/mindsets-50.md) - Frameworks I've used successfully in the past 
+3. [Architecture](pro/architecture.md) - How I think and behave
+4. [Mindsets](pro/mindsets-50.md) - Frameworks I've used successfully in the past 
 
 ## Personal
 
