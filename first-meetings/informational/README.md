@@ -40,7 +40,7 @@ PS: Here's four things to know about Mattermost:
   * We sell an enterprise version of Mattermost with compliance features to IT departments \([see features](https://mattermost.com/pricing-feature-comparison/)\).
   * The business is doing well
 * Four - Mattermost is an [open source, remote-first, communities-centered company](https://docs.mattermost.com/process/handbook.html#company) based in Palo Alto and headquartered on the internet.
-  * Our CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington; our CPO, [Chandar Venkataraman](https://www.linkedin.com/in/chandar-venkataraman-a4332b3/), is in the Mountain View, California area; our VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; our VP Marketing, [Ken Olofsen](https://www.linkedin.com/in/kolofsen/), in Oakland, California; VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California and CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
+  * Our CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington; our CPO, [Chandar Venkataraman](https://www.linkedin.com/in/chandar-venkataraman-a4332b3/), is in the Mountain View, California area; our VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California and CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
   * We have concentrations of people around London, Berlin, Toronto, and Washington, D.C. and a physical office for a portion of the finance, marketing and inside sales teams in San Francisco
   * As a company we bring the company together annually, in partnership with our customers and open source community
   * The leadership team typically meets remotely with monthly in-person meetings in the San Francisco office
@@ -52,5 +52,7 @@ You can read more about Mattermost online at:
 * [Tech Republic coverage](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/) on Series A announcement
 * [Company history in Wired Magazine](https://www.wired.com/2016/03/open-source-devs-racing-build-better-versions-slack/)
 
-Also, if we are meeting to discuss a potential VP-level role, you can read our [Executive Hiring process](https://handbook.mattermost.com/contributors/join-us/exec-recruiting) online.
+If you'd like to hear from our customers check out the YouTube commercial U.S. Air Force put together about their Mattermost deployment: [https://www.youtube.com/watch?v=cYl1SXFV\_nE&feature=youtu.be](https://www.youtube.com/watch?v=cYl1SXFV_nE&feature=youtu.be)
+
+If we are meeting to discuss a potential VP-level role, you can read our [Executive Hiring process](https://handbook.mattermost.com/contributors/join-us/exec-recruiting) online.
 
