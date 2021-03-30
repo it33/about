@@ -43,10 +43,10 @@ PS: Here's four things to know about Mattermost:
     * IT reads our [pricing page ](https://mattermost.com/pricing-self-managed/)and understands that for their needs \(user administration, single-sign-on, and high availability\) they need to purchase licenses, and they start engaging with our sales team. From there we land the account and expand as usage grows. 
 * Four - Mattermost is an [open source, remote-first, communities-centered company](https://docs.mattermost.com/process/handbook.html#company) based in Palo Alto and headquartered on the internet.
   * Our leadership team includes: 
-    * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; 
-    * VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California 
-    * VP Customer Success, [Barry Duplantis](https://www.linkedin.com/in/barryduplantis/), is in Ashville, North Carolina 
     * VP Marketing, [Matt Harper](https://www.linkedin.com/in/matthewrharper/), is in Los Gatos, California 
+    * VP Customer Success, [Barry Duplantis](https://www.linkedin.com/in/barryduplantis/), is in Ashville, North Carolina 
+    * VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California 
+    * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; 
     * CTO/co-founder, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington
     * CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
   * In the United States we employee people through the TriNet platform, we have subsidiary employment entities in the U.K. and Germany, in Canada we use a co-employer, and we have various contracting agreements around the world. 
