@@ -20,9 +20,13 @@ Ian
 
 PS: Here's four things to know about Mattermost:
 
-* One - We are focused on disrupting the enterprise collaboration market as the open source leader
-  * The market is expected to grow from $34.57B in 2018 to nearly $60B in 2023 with a CAGR of 11.6%
-  * Just as open source has won over operating systems and databases, we plan to lead the disruption of the enterprise collaboration market with an open source platform
+* One - We are focused on delivering the essential operational platform for digital operations 
+  * As work moves to remote work 
+  * Today, 1.25 billion information workers
+  * * disrupting the enterprise collaboration market as the open source leader
+    * The market is expected to grow from $34.57B in 2018 to nearly $60B in 2023 with a CAGR of 11.6%
+    * Just as open source has won over operating systems and databases, we plan to lead the disruption of the enterprise collaboration market with an open source platform
+    * 
 * Two - Our first product is an "open source Slack-alternative"--aka "Slack for paranoid people"
   * Each open source Mattermost server can host hundreds of Slack-compatible teams
     * This includes Slack-compatible webhook integrations, Slack keyboard shortcuts, you can import Slack teams--you can even import Slack theme colors
@@ -37,13 +41,20 @@ PS: Here's four things to know about Mattermost:
   * Once adopted by DevOps, our platform starts to spread to the rest of the company via structured and unstructured workflows
 * Three - Our business is "buyer-based open core".
   * Our core product is free, open source and focused on developers
-  * We sell an enterprise version of Mattermost with compliance features to IT departments \([see features](https://mattermost.com/pricing-feature-comparison/)\).
-  * The business is doing well
+  * We sell an enterprise version of Mattermost with compliance features to IT departments 
+  * Our typical motion is developers adopting the open source version of Mattermost in a small team and turning it to an essentially hub for developer productivity. 
+    * Once it's used across multiple teams, the developers typically ask their IT organizations to take it over. 
+    * IT reads our [pricing page ](https://mattermost.com/pricing-self-managed/)and understands that for their needs \(user administration, single-sign-on, and high availability\) they need to purchase licenses, and they start engaging with our sales team. From there we land the account and expand as usage grows. 
 * Four - Mattermost is an [open source, remote-first, communities-centered company](https://docs.mattermost.com/process/handbook.html#company) based in Palo Alto and headquartered on the internet.
-  * Our CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington; our CPO, [Chandar Venkataraman](https://www.linkedin.com/in/chandar-venkataraman-a4332b3/), is in the Mountain View, California area; our VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California and CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
-  * We have concentrations of people around London, Berlin, Toronto, and Washington, D.C. and a physical office for a portion of the finance, marketing and inside sales teams in San Francisco
-  * As a company we bring the company together annually, in partnership with our customers and open source community
-  * The leadership team typically meets remotely with monthly in-person meetings in the San Francisco office
+  * Our leadership team includes: 
+    * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee; 
+    * VP Finance & Operations, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), in San Francisco, California 
+    * VP Customer Success, [Barry Duplantis](https://www.linkedin.com/in/barryduplantis/), is in Ashville, North Carolina 
+    * VP Marketing, [Matt Harper](https://www.linkedin.com/in/matthewrharper/), is in Los Gatos, California 
+    * CTO/co-founder, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle area, Washington
+    * CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California.
+  * In the United States we employee people through the TriNet platform, we have subsidiary employment entities in the U.K. and Germany, in Canada we use a co-employer, and we have various contracting agreements around the world. 
+  * When travel restrictions are not in effect, we typically bring the entire company together annually, in partnership with our customers and open source community at a global "MatterCon" event, and our exec team meets in-person at least quarterly. 
 
 You can read more about Mattermost online at:
 
