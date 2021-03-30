@@ -20,13 +20,9 @@ Ian
 
 PS: Here's four things to know about Mattermost:
 
-* One - We are focused on delivering the essential operational platform for digital operations 
-  * As work moves to remote work 
-  * Today, 1.25 billion information workers
-  * * disrupting the enterprise collaboration market as the open source leader
-    * The market is expected to grow from $34.57B in 2018 to nearly $60B in 2023 with a CAGR of 11.6%
-    * Just as open source has won over operating systems and databases, we plan to lead the disruption of the enterprise collaboration market with an open source platform
-    * 
+* One - We are focused on the global collaboration market 
+  * The market is expected to grow from $34.57B in 2018 to nearly $60B in 2023 with a CAGR of 11.6%
+  * * Just as open source has won over operating systems and databases, we plan to lead the disruption of the enterprise collaboration market with an open source platform
 * Two - Our first product is an "open source Slack-alternative"--aka "Slack for paranoid people"
   * Each open source Mattermost server can host hundreds of Slack-compatible teams
     * This includes Slack-compatible webhook integrations, Slack keyboard shortcuts, you can import Slack teams--you can even import Slack theme colors
