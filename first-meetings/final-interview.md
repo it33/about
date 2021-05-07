@@ -21,7 +21,7 @@ c\) what is the potential to exceed your own expectations in working here
 
 Our recruiting process is focused on answering these questions, and in our upcoming meeting I hope we can learn more about each other and the possibilities ahead. 
 
-You can learn more about our company and leadership principles--**Customer Obsession, Ownership, High Impact, High Standards, Self-Awareness, Earning Trust**--at: [https://mattermost.com/about-us/](https://mattermost.com/about-us/)
+You can learn more about our company and leadership principles--**Customer Obsession, Ownership, High Impact, Self-Awareness, Earning Trust**--at: [https://mattermost.com/about-us/](https://mattermost.com/about-us/)
 
 You can learn more about me and my approach to leading our teams [in my README file](../). 
 
