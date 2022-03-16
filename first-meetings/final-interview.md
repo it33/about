@@ -5,31 +5,26 @@ description: >-
   candidate exhibited those behaviors in the past
 ---
 
-# Leadership Principles Interview
+# Founders Interview
 
-Hi there, 
+Hi there,&#x20;
 
 My name is Ian and I'm CEO of Mattermost, Inc. and a co-creator of the Mattermost open source project. Thank you for investing the time in getting to know our company and exploring the opportunity to build this company together.
 
-I'm interested to know one thing: _Is Mattermost a place where you can do the best work of your career?_ 
+Right now, before a candidate receives a full-time offer we have one of the founders of the company conduct a final interview. \
+\
+It's an opportunity for us to keep our company closer connected. When everyone at the company has had at least one meeting with one of the founders, we find it's easier for everyone to communicate and share across all levels of the company. \
+\
+While we don't expect this to grow as we scale, we hope to keep it for as long as it's practical. \
+\
+The interviews with founders are largely based on our company's core values:--**Customer Obsession, Ownership, High Impact, Self-Awareness, Earning Trust**--you can learn more about them at: [https://mattermost.com/about-us/](https://mattermost.com/about-us/)
 
-This means understanding: 
+You can learn more about me and my approach to leading our teams [in my README file](../).&#x20;
 
-a\) who you are  
-b\) what skills and accomplishments you're interested in developing    
-c\) what is the potential to exceed your own expectations in working here
+Because our time is limited, I would ask your help complete a brief survey the day before our meeting so we can make the most of our time together, [here is a link to the questions](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me\_oDWTSICA\_QhRFM9dBRiqBTw38uRY6XDQ/viewform).
 
-Our recruiting process is focused on answering these questions, and in our upcoming meeting I hope we can learn more about each other and the possibilities ahead. 
+In the survey, there's a section to ask questions, and I'm excited to answer whatever you'd like to talk about,&#x20;
 
-You can learn more about our company and leadership principles--**Customer Obsession, Ownership, High Impact, High Standards, Self-Awareness, Earning Trust**--at: [https://mattermost.com/about-us/](https://mattermost.com/about-us/)
+Looking forward to speaking to you soon,&#x20;
 
-You can learn more about me and my approach to leading our teams [in my README file](../). 
-
-Because our time is limited, I would ask your help complete a brief survey the day before our meeting so we can make the most of our time together, [here is a link to the questions](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform).
-
-In the survey, there's a section to ask questions, and I'm excited to answer whatever you'd like to talk about, 
-
-Looking forward to speaking to you soon, 
-
-Ian 
-
+Ian&#x20;
